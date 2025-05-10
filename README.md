@@ -29,7 +29,7 @@
 - <b>Windows 10:<b/> https://www.microsoft.com/en-us/software-download/windows10?msockid=3161182fb86f6b5704bc0d55b9fb6aae
 - <b>Windows Server 2022:</b> https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=3161182fb86f6b5704bc0d55b9fb6aae
 - <b>Virtualbox:</b> https://www.virtualbox.org/wiki/Downloads
-- <b>Pulsedive:</b> https://pulsedive.com/
+- <b>Namecheap for custom domain</b> https://www.namecheap.com
   
 
 <h2 align="center">Project walk-through</h2>
